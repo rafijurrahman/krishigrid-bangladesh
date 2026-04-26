@@ -442,41 +442,7 @@ its business question and key insight directly below it.
 | Part7_The_Global_Warning.pdf | Global price volatility, export bans, country vulnerability comparison |
 | Part8_The_Complete_Journey.pdf | Full project summary, key numbers, conclusions, all data sources |
 
----
 
-## Repository Structure
-krishigrid-bangladesh/
-│
-├── README.md
-│
-├── data/
-│ ├── imports.csv
-│ ├── lands.csv
-│ ├── bdcrops.csv
-│ ├── bd_district_crop.csv
-│ ├── hub_costs.csv
-│ ├── impact_projection.csv
-│ ├── megaprojects.csv
-│ ├── pilot_districts.csv
-│ ├── global_food_prices.csv
-│ ├── export_bans.csv
-│ └── country_comparison.csv
-│
-├── reports/
-│ ├── Part1_The_Import_Crisis.pdf
-│ ├── Part2_The_Hidden_Land_Opportunity.pdf
-│ ├── Part3_The_Crop_Revolution.pdf
-│ ├── Part4_The_Solution_Model.pdf
-│ ├── Part5_The_Business_Case.pdf
-│ ├── Part6_The_Pilot_Plan.pdf
-│ ├── Part7_The_Global_Warning.pdf
-│ └── Part8_The_Complete_Journey.pdf
-│
-├── assets/
-│ └── krishigrid_logo.png
-│
-└── docs/
-└── data_dictionary.md
 
 
 ---
