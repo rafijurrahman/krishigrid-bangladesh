@@ -1,0 +1,9 @@
+project_id,project_name,project_type,total_cost_bdt_crore,total_cost_usd_billion,construction_period_years,annual_cost_bdt_crore,direct_beneficiaries_million,permanent_jobs_created,cost_per_beneficiary_bdt,cost_per_permanent_job_lakh_bdt,geographic_reach,revenue_generating,project_status,data_reliability
+padma_bridge,Padma Multipurpose Bridge,bridge,30193,2.78,8,3774.1,30.0,4000,10064,754.8,regional,yes,completed,actual
+dhaka_metro,Dhaka Metro Rail MRT Line 6,rail,33472,3.08,8,4184.0,5.0,3200,66944,1046.0,local,yes,completed,actual
+rooppur_nuclear,Rooppur Nuclear Power Plant,power,113092,10.40,9,12565.8,20.0,2400,56546,4712.2,national,yes,ongoing,actual
+karnaphuli_tunnel,Karnaphuli River Tunnel,tunnel,10374,0.95,7,1482.0,8.0,500,12968,2074.8,regional,yes,completed,actual
+payra_port,Payra Deep Sea Port,port,18000,1.65,10,1800.0,15.0,6000,12000,300.0,national,yes,ongoing,estimated
+rampal_power,Rampal Maitree Super Thermal Power Plant,power,16000,1.47,7,2285.7,12.0,1600,13333,1000.0,regional,yes,completed,actual
+matarbari,Matarbari Deep Sea Port and Power Plant,port,35984,3.31,10,3598.4,20.0,8000,17992,449.8,national,yes,ongoing,actual
+krishigrid,KrishiGrid Agricultural Hub Network,agriculture,16047,1.37,10,1604.7,170.0,380000,944,4.2,national,yes,proposed,estimated

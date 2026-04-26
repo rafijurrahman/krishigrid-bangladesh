@@ -1,0 +1,11 @@
+year,fao_food_price_index,fao_cereal_price_index,fao_vegetable_oil_price_index,fao_sugar_price_index,international_rice_price_usd_per_ton,international_palm_oil_price_usd_per_ton,international_soybean_oil_price_usd_per_ton,international_wheat_price_usd_per_ton,brent_crude_oil_usd_per_barrel,bangladesh_forex_reserve_usd_billion,bangladesh_usd_exchange_rate,bangladesh_food_inflation_pct,global_acute_food_insecurity_million,major_global_event,data_reliability
+2015,93.0,94.2,83.6,82.0,390,620,720,202,52.4,27.2,77.8,6.2,80,Commodity price slump — oil and food prices fall globally,actual
+2016,91.9,89.3,86.8,82.1,398,590,700,165,44.0,30.2,78.4,5.8,85,La Nina weather event disrupts Asian agriculture,actual
+2017,97.7,93.3,97.5,96.4,410,635,740,172,54.7,32.9,82.5,7.1,90,Global food prices modestly recover,actual
+2018,95.9,96.5,88.8,89.3,415,600,710,195,71.3,32.0,83.8,7.8,113,US-China trade war raises soybean uncertainty,actual
+2019,95.1,95.8,91.7,84.0,422,580,720,172,64.0,32.7,84.5,5.5,135,India bans onion exports — regional price shock,actual
+2020,98.1,103.1,99.5,85.9,450,720,870,194,41.8,36.0,85.0,6.9,155,COVID-19 pandemic — supply chain disruption and panic buying,actual
+2021,125.7,127.3,145.0,108.3,510,1090,1380,278,70.7,46.2,86.0,9.4,193,Post-COVID commodity super-cycle — all prices surge,actual
+2022,143.7,147.3,171.1,116.9,640,1430,1690,390,100.9,33.8,95.1,11.2,258,Russia-Ukraine war — vegetable oil and wheat hit all-time highs,actual
+2023,124.0,126.8,131.0,145.4,580,900,1100,258,82.5,21.2,109.0,9.8,282,India rice and wheat export bans — El Nino drought fears,actual
+2024,119.5,113.0,125.8,138.6,540,840,1040,225,80.0,19.5,117.0,10.5,295,Ongoing geopolitical tensions — Bangladesh forex reserve under pressure,estimated

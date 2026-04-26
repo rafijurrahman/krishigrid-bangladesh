@@ -1,0 +1,11 @@
+country,region,population_million,gdp_per_capita_usd,total_arable_land_million_hectare,arable_land_per_capita_hectare,edible_oil_import_dependency_pct,rice_import_dependency_pct,wheat_import_dependency_pct,overall_food_import_bill_usd_billion,global_food_security_index_score,global_food_security_index_rank,forex_reserve_usd_billion,forex_reserve_months_of_import_cover,agricultural_rd_spending_pct_of_gdp,national_food_security_strategy,data_reliability
+Bangladesh,South Asia,172.0,2780,8.4,0.049,90.0,2.0,80.0,6.8,47.3,84,19.5,2.2,0.61,Reduce import dependency via domestic production,actual
+India,South Asia,1430.0,2600,156.4,0.109,35.0,0.0,0.0,24.5,62.1,68,620.0,11.5,0.48,Self-sufficient with strategic export controls,actual
+Pakistan,South Asia,240.0,1600,22.0,0.092,60.0,0.0,15.0,8.2,36.8,99,8.4,1.5,0.35,IMF-dependent food import financing,actual
+Myanmar,Southeast Asia,55.0,1300,11.0,0.200,40.0,0.0,55.0,2.1,39.5,95,3.8,2.1,0.32,Rice exporter but political crisis disrupts output,estimated
+Vietnam,Southeast Asia,98.0,4160,9.5,0.097,30.0,0.0,65.0,4.8,58.7,55,87.5,4.2,0.52,Rice exporter and diversified agri-export model,actual
+Thailand,Southeast Asia,72.0,7200,18.5,0.257,25.0,0.0,40.0,5.2,66.9,39,225.0,7.1,0.38,Premium rice exporter and processed food hub,actual
+Indonesia,Southeast Asia,278.0,4900,32.0,0.115,45.0,5.0,90.0,12.5,55.3,63,140.0,5.5,0.34,Palm oil exporter but domestic food vulnerable,actual
+Philippines,Southeast Asia,115.0,3700,8.0,0.070,55.0,15.0,95.0,6.9,51.0,74,103.0,5.4,0.31,Rice self-sufficiency program underperforming,actual
+Egypt,Middle East/North Africa,106.0,3700,2.9,0.027,70.0,3.0,60.0,10.8,40.2,93,29.0,2.6,0.70,Subsidized bread program under fiscal stress,actual
+Nigeria,Sub-Saharan Africa,225.0,2200,37.0,0.164,75.0,60.0,90.0,5.5,38.4,97,33.0,2.8,0.22,Food import surge despite large arable land base,estimated

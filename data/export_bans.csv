@@ -1,0 +1,9 @@
+ban_id,country,product_affected,ban_type,start_date,end_date,duration_months,reason,bangladesh_import_share_from_this_country_pct,estimated_price_increase_in_bangladesh_pct,alternative_source_found,data_reliability
+1,India,Non-basmati white rice,full_ban,2023-07,ongoing,18,Domestic price control after poor rabi harvest and El Nino concerns,72.0,35.0,partial,actual
+2,India,Onion,full_ban,2023-12,2024-04,5,Domestic price spike before Indian state elections,65.0,180.0,no,actual
+3,Indonesia,Palm oil and derivatives,full_ban,2022-04,2022-05,2,Domestic cooking oil shortage and price crisis,48.0,42.0,partial,actual
+4,India,Wheat,full_ban,2022-05,ongoing,31,Post-Ukraine war domestic supply protection,25.0,28.0,partial,actual
+5,India,Sugar,export_quota,2022-05,2024-10,29,Domestic sugar price management and reserve building,38.0,15.0,yes,actual
+6,Ukraine,Sunflower oil,full_ban,2022-02,ongoing,34,War-related export infrastructure destruction and supply collapse,30.0,55.0,partial,actual
+7,India,Broken rice,full_ban,2022-09,2023-11,14,Protect domestic ethanol blending program feedstock supply,60.0,22.0,partial,actual
+8,India,All non-basmati rice,export_tax,2023-08,2024-09,13,Additional deterrent to exports beyond quantity ban,72.0,18.0,no,actual

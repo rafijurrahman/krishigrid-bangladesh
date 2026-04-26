@@ -1,0 +1,12 @@
+year,phase,districts_covered,ward_hubs_operational,union_hubs_operational,district_hubs_operational,cumulative_investment_crore_bdt,annual_new_investment_crore_bdt,edible_oil_import_dependency_pct,rice_self_sufficiency_pct,annual_oil_import_saving_crore_bdt,annual_crop_loss_saving_crore_bdt,annual_middlemen_elimination_saving_crore_bdt,total_annual_saving_crore_bdt,cumulative_total_saving_crore_bdt,net_benefit_crore_bdt,farmer_income_index,consumer_food_price_index,domestic_oilseed_production_mt,additional_oil_production_mt,post_harvest_loss_pct,total_permanent_jobs_created,total_seasonal_jobs_created,breakeven_status
+0,baseline,0,0,0,0,0,0,90.0,95.0,0,0,0,0,0,0,100.0,100.0,1000000,0,20.0,0,0,investment_phase
+1,pilot,5,1000,140,5,1200,1200,87.0,95.5,180,120,80,380,380,-820,105.0,98.0,1080000,30000,18.5,4600,7200,investment_phase
+2,pilot,5,1000,140,5,2000,800,84.0,96.0,360,240,160,760,1140,-860,110.0,96.0,1150000,58000,17.0,4600,7200,investment_phase
+3,expansion,20,4000,560,20,4800,2800,80.0,96.5,620,420,280,1320,2460,-2340,118.0,93.0,1280000,145000,15.5,18400,28800,investment_phase
+4,expansion,20,7000,980,20,7200,2400,76.0,97.0,900,620,400,1920,4380,-2820,126.0,90.0,1420000,260000,14.0,32200,50400,investment_phase
+5,expansion,20,10000,1400,20,9400,2200,72.0,97.5,1200,820,540,2560,6940,-2460,135.0,87.0,1570000,380000,12.0,46000,72000,investment_phase
+6,scaling,50,17000,2380,50,11800,2400,67.0,97.8,1650,1100,730,3480,10420,-1380,145.0,84.0,1760000,530000,10.0,78200,122400,investment_phase
+7,scaling,50,22000,3080,50,13600,1800,62.0,98.0,2100,1380,920,4400,14820,1220,155.0,81.0,1940000,680000,8.0,101200,158400,profitable
+8,scaling,50,25000,3500,50,14800,1200,57.0,98.2,2550,1620,1080,5250,20070,5270,165.0,79.0,2100000,800000,6.5,115000,180000,profitable
+9,complete,64,30000,4200,64,15600,800,53.0,98.5,2950,1850,1240,6040,26110,10510,173.0,77.0,2260000,940000,5.5,138000,216000,profitable
+10,complete,64,33000,4571,64,16047,447,50.0,98.8,3300,2050,1380,6730,32840,16793,180.0,75.0,2400000,1030000,5.0,151900,237800,profitable

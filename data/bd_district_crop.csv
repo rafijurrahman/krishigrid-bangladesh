@@ -1,0 +1,506 @@
+district_name,division,crop_id,crop_name,crop_category,currently_grown,suitability_score,current_area_hectare,current_production_mt,potential_additional_area_hectare,potential_additional_production_mt,potential_oil_from_additional_mt,required_hub_equipment,priority_level,data_reliability
+Dhaka,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,3,35000,98000,5000,14000,0,rice_mill,medium,estimated
+Dhaka,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,3,28000,126000,4000,18000,0,rice_mill,medium,estimated
+Dhaka,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,3,8000,9600,12000,14400,5760,oil_mill,medium,estimated
+Dhaka,Dhaka,lentil,Lentil,pulse,yes,3,5000,5000,4000,4000,0,dryer,medium,estimated
+Dhaka,Dhaka,potato,Potato,tuber,yes,4,12000,264000,5000,110000,0,cold_storage,high,estimated
+Faridpur,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,55000,154000,6000,16800,0,rice_mill,high,estimated
+Faridpur,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,42000,189000,5000,22500,0,rice_mill,high,estimated
+Faridpur,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,5,35000,42000,30000,36000,14400,oil_mill,high,estimated
+Faridpur,Dhaka,onion,Onion,vegetable,yes,4,12000,126000,8000,84000,0,cold_storage,high,estimated
+Faridpur,Dhaka,lentil,Lentil,pulse,yes,4,15000,15000,10000,10000,0,dryer,high,estimated
+Faridpur,Dhaka,grass_pea,Grass Pea/Khesari,pulse,yes,4,18000,21600,8000,9600,0,dryer,medium,estimated
+Gazipur,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,3,22000,61600,3000,8400,0,rice_mill,medium,estimated
+Gazipur,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,3,18000,81000,2000,9000,0,rice_mill,medium,estimated
+Gazipur,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,3,5000,6000,8000,9600,3840,oil_mill,medium,estimated
+Gazipur,Dhaka,potato,Potato,tuber,yes,3,6000,132000,3000,66000,0,cold_storage,medium,estimated
+Gopalganj,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,42000,117600,5000,14000,0,rice_mill,high,estimated
+Gopalganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,35000,157500,4000,18000,0,rice_mill,high,estimated
+Gopalganj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,20000,24000,18000,21600,8640,oil_mill,high,estimated
+Gopalganj,Dhaka,lentil,Lentil,pulse,yes,3,8000,8000,5000,5000,0,dryer,medium,estimated
+Gopalganj,Dhaka,mung_bean,Mung Bean,pulse,yes,3,6000,6600,4000,4400,0,dryer,medium,estimated
+Kishoreganj,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,5,95000,266000,0,0,0,rice_mill,high,actual
+Kishoreganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,65000,292500,0,0,0,rice_mill,high,actual
+Kishoreganj,Dhaka,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,25000,80000,15000,48000,0,rice_mill,high,estimated
+Kishoreganj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,18000,21600,20000,24000,9600,oil_mill,high,estimated
+Kishoreganj,Dhaka,lentil,Lentil,pulse,yes,3,6000,6000,4000,4000,0,dryer,medium,estimated
+Madaripur,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Madaripur,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Madaripur,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,22000,26400,18000,21600,8640,oil_mill,high,estimated
+Madaripur,Dhaka,onion,Onion,vegetable,yes,3,5000,52500,3000,31500,0,cold_storage,medium,estimated
+Manikganj,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,40000,112000,4000,11200,0,rice_mill,high,estimated
+Manikganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,32000,144000,3000,13500,0,rice_mill,high,estimated
+Manikganj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,5,30000,36000,25000,30000,12000,oil_mill,high,estimated
+Manikganj,Dhaka,onion,Onion,vegetable,yes,4,8000,84000,5000,52500,0,cold_storage,high,estimated
+Munshiganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,5,45000,202500,3000,13500,0,rice_mill,high,actual
+Munshiganj,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,30000,84000,2000,5600,0,rice_mill,high,estimated
+Munshiganj,Dhaka,potato,Potato,tuber,yes,5,28000,616000,10000,220000,0,cold_storage,high,actual
+Munshiganj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,10000,12000,12000,14400,5760,oil_mill,high,estimated
+Narayanganj,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,3,15000,42000,2000,5600,0,rice_mill,medium,estimated
+Narayanganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,3,12000,54000,1500,6750,0,rice_mill,medium,estimated
+Narayanganj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,3,4000,4800,5000,6000,2400,oil_mill,medium,estimated
+Narsingdi,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,3,20000,56000,3000,8400,0,rice_mill,medium,estimated
+Narsingdi,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,3,15000,67500,2000,9000,0,rice_mill,medium,estimated
+Narsingdi,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,3,6000,7200,8000,9600,3840,oil_mill,medium,estimated
+Rajbari,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,35000,98000,4000,11200,0,rice_mill,high,estimated
+Rajbari,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Rajbari,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,5,28000,33600,25000,30000,12000,oil_mill,high,estimated
+Rajbari,Dhaka,onion,Onion,vegetable,yes,5,15000,157500,10000,105000,0,cold_storage,high,actual
+Rajbari,Dhaka,garlic,Garlic,spice,yes,4,8000,60000,5000,37500,0,cold_storage,high,estimated
+Shariatpur,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Shariatpur,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Shariatpur,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,18000,21600,15000,18000,7200,oil_mill,high,estimated
+Tangail,Dhaka,aman_rice_long,Traditional Aman Rice,cereal,yes,4,65000,182000,5000,14000,0,rice_mill,high,estimated
+Tangail,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,48000,216000,4000,18000,0,rice_mill,high,estimated
+Tangail,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,20000,24000,18000,21600,8640,oil_mill,high,estimated
+Tangail,Dhaka,sesame,Sesame,oilseed,yes,4,8000,7200,10000,9000,4680,oil_mill,medium,estimated
+Tangail,Dhaka,lentil,Lentil,pulse,yes,3,6000,6000,4000,4000,0,dryer,medium,estimated
+Bagerhat,Khulna,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,42000,134400,10000,32000,0,rice_mill,high,estimated
+Bagerhat,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,3,25000,112500,5000,22500,0,rice_mill,medium,estimated
+Bagerhat,Khulna,sunflower,Sunflower,oilseed,yes,4,4000,6000,15000,22500,9000,oil_mill,high,estimated
+Bagerhat,Khulna,mung_bean,Mung Bean,pulse,yes,4,12000,13200,8000,8800,0,dryer,high,estimated
+Bagerhat,Khulna,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,8000,12000,5760,oil_mill,medium,estimated
+Chuadanga,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,32000,89600,4000,11200,0,rice_mill,high,estimated
+Chuadanga,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,25000,112500,3000,13500,0,rice_mill,high,estimated
+Chuadanga,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,4,18000,21600,15000,18000,7200,oil_mill,high,estimated
+Chuadanga,Khulna,wheat,Wheat,cereal,yes,4,12000,37200,8000,24800,0,flour_mill,high,estimated
+Chuadanga,Khulna,onion,Onion,vegetable,yes,3,5000,52500,3000,31500,0,cold_storage,medium,estimated
+Jessore,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,55000,154000,5000,14000,0,rice_mill,high,estimated
+Jessore,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,42000,189000,4000,18000,0,rice_mill,high,estimated
+Jessore,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,5,45000,54000,35000,42000,16800,oil_mill,high,actual
+Jessore,Khulna,onion,Onion,vegetable,yes,5,18000,189000,10000,105000,0,cold_storage,high,actual
+Jessore,Khulna,sesame,Sesame,oilseed,yes,4,10000,9000,12000,10800,5616,oil_mill,high,estimated
+Jessore,Khulna,lentil,Lentil,pulse,yes,4,14000,14000,8000,8000,0,dryer,high,actual
+Jhenaidah,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,42000,117600,4000,11200,0,rice_mill,high,estimated
+Jhenaidah,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,32000,144000,3000,13500,0,rice_mill,high,estimated
+Jhenaidah,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,5,38000,45600,30000,36000,14400,oil_mill,high,estimated
+Jhenaidah,Khulna,wheat,Wheat,cereal,yes,4,10000,31000,6000,18600,0,flour_mill,high,estimated
+Jhenaidah,Khulna,onion,Onion,vegetable,yes,4,10000,105000,6000,63000,0,cold_storage,high,estimated
+Khulna,Khulna,aman_rice_short,Short-duration Aman Rice,cereal,yes,3,28000,89600,5000,16000,0,rice_mill,medium,estimated
+Khulna,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,3,18000,81000,3000,13500,0,rice_mill,medium,estimated
+Khulna,Khulna,sunflower,Sunflower,oilseed,yes,4,3500,5250,12000,18000,7200,oil_mill,high,estimated
+Khulna,Khulna,mung_bean,Mung Bean,pulse,yes,4,10000,11000,6000,6600,0,dryer,high,estimated
+Kushtia,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Kushtia,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,30000,135000,3000,13500,0,rice_mill,high,estimated
+Kushtia,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,5,40000,48000,32000,38400,15360,oil_mill,high,estimated
+Kushtia,Khulna,wheat,Wheat,cereal,yes,4,12000,37200,6000,18600,0,flour_mill,high,estimated
+Kushtia,Khulna,onion,Onion,vegetable,yes,3,6000,63000,4000,42000,0,cold_storage,medium,estimated
+Magura,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,28000,78400,3000,8400,0,rice_mill,high,estimated
+Magura,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,22000,99000,2500,11250,0,rice_mill,high,estimated
+Magura,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,4,20000,24000,16000,19200,7680,oil_mill,high,estimated
+Magura,Khulna,sesame,Sesame,oilseed,yes,4,6000,5400,8000,7200,3744,oil_mill,medium,estimated
+Meherpur,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,20000,56000,3000,8400,0,rice_mill,high,estimated
+Meherpur,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,15000,67500,2000,9000,0,rice_mill,high,estimated
+Meherpur,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,5,18000,21600,15000,18000,7200,oil_mill,high,estimated
+Meherpur,Khulna,wheat,Wheat,cereal,yes,4,8000,24800,5000,15500,0,flour_mill,high,estimated
+Narail,Khulna,aman_rice_long,Traditional Aman Rice,cereal,yes,4,28000,78400,3000,8400,0,rice_mill,high,estimated
+Narail,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,4,22000,99000,2500,11250,0,rice_mill,high,estimated
+Narail,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,4,16000,19200,14000,16800,6720,oil_mill,high,estimated
+Narail,Khulna,sesame,Sesame,oilseed,yes,3,4000,3600,6000,5400,2808,oil_mill,medium,estimated
+Satkhira,Khulna,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,45000,144000,8000,25600,0,rice_mill,high,estimated
+Satkhira,Khulna,boro_rice_regular,Regular Boro Rice,cereal,yes,3,20000,90000,4000,18000,0,rice_mill,medium,estimated
+Satkhira,Khulna,sunflower,Sunflower,oilseed,yes,5,6000,9000,20000,30000,12000,oil_mill,high,estimated
+Satkhira,Khulna,mung_bean,Mung Bean,pulse,yes,4,14000,15400,8000,8800,0,dryer,high,estimated
+Satkhira,Khulna,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,8000,12000,5760,oil_mill,medium,estimated
+Barguna,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,38000,121600,8000,25600,0,rice_mill,high,estimated
+Barguna,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,3,20000,90000,4000,18000,0,rice_mill,medium,estimated
+Barguna,Barisal,sunflower,Sunflower,oilseed,yes,4,3000,4500,12000,18000,7200,oil_mill,high,estimated
+Barguna,Barisal,mung_bean,Mung Bean,pulse,yes,4,10000,11000,6000,6600,0,dryer,high,estimated
+Barisal,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,55000,176000,8000,25600,0,rice_mill,high,estimated
+Barisal,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,4,35000,157500,5000,22500,0,rice_mill,high,estimated
+Barisal,Barisal,mustard,Mustard/Rapeseed,oilseed,yes,4,20000,24000,18000,21600,8640,oil_mill,high,estimated
+Barisal,Barisal,mung_bean,Mung Bean,pulse,yes,4,12000,13200,6000,6600,0,dryer,high,estimated
+Barisal,Barisal,sunflower,Sunflower,oilseed,no,3,0,0,8000,12000,4800,oil_mill,medium,estimated
+Bhola,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,55000,176000,10000,32000,0,rice_mill,high,estimated
+Bhola,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,3,30000,135000,5000,22500,0,rice_mill,medium,estimated
+Bhola,Barisal,groundnut,Groundnut/Peanut,oilseed,yes,4,8000,12000,15000,22500,10800,oil_mill,high,estimated
+Bhola,Barisal,mung_bean,Mung Bean,pulse,yes,4,15000,16500,8000,8800,0,dryer,high,estimated
+Bhola,Barisal,sunflower,Sunflower,oilseed,no,4,0,0,12000,18000,7200,oil_mill,high,estimated
+Jhalokati,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,22000,70400,4000,12800,0,rice_mill,high,estimated
+Jhalokati,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,4,15000,67500,3000,13500,0,rice_mill,high,estimated
+Jhalokati,Barisal,mustard,Mustard/Rapeseed,oilseed,yes,4,10000,12000,8000,9600,3840,oil_mill,high,estimated
+Jhalokati,Barisal,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Patuakhali,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,5,62000,198400,10000,32000,0,rice_mill,high,estimated
+Patuakhali,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,4,38000,171000,6000,27000,0,rice_mill,high,estimated
+Patuakhali,Barisal,mustard,Mustard/Rapeseed,oilseed,yes,4,18000,21600,15000,18000,7200,oil_mill,high,estimated
+Patuakhali,Barisal,sunflower,Sunflower,oilseed,no,4,0,0,15000,22500,9000,oil_mill,high,estimated
+Patuakhali,Barisal,mung_bean,Mung Bean,pulse,yes,4,14000,15400,8000,8800,0,dryer,high,estimated
+Patuakhali,Barisal,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,10000,15000,7200,oil_mill,medium,estimated
+Pirojpur,Barisal,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,32000,102400,5000,16000,0,rice_mill,high,estimated
+Pirojpur,Barisal,boro_rice_regular,Regular Boro Rice,cereal,yes,3,20000,90000,3000,13500,0,rice_mill,medium,estimated
+Pirojpur,Barisal,mustard,Mustard/Rapeseed,oilseed,yes,4,12000,14400,10000,12000,4800,oil_mill,high,estimated
+Pirojpur,Barisal,mung_bean,Mung Bean,pulse,yes,3,6000,6600,4000,4400,0,dryer,medium,estimated
+Bandarban,Chattogram,aus_rice,Aus Rice,cereal,yes,4,18000,32400,3000,5400,0,rice_mill,high,estimated
+Bandarban,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,22000,61600,3000,8400,0,rice_mill,high,estimated
+Bandarban,Chattogram,sesame,Sesame,oilseed,yes,4,5000,4500,8000,7200,3744,oil_mill,high,estimated
+Bandarban,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,4,4000,6000,8000,12000,5760,oil_mill,high,estimated
+Brahmanbaria,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,55000,154000,5000,14000,0,rice_mill,high,estimated
+Brahmanbaria,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,4,40000,180000,4000,18000,0,rice_mill,high,estimated
+Brahmanbaria,Chattogram,mustard,Mustard/Rapeseed,oilseed,yes,4,15000,18000,15000,18000,7200,oil_mill,high,estimated
+Brahmanbaria,Chattogram,lentil,Lentil,pulse,yes,3,6000,6000,4000,4000,0,dryer,medium,estimated
+Chandpur,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,45000,126000,5000,14000,0,rice_mill,high,estimated
+Chandpur,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,4,35000,157500,4000,18000,0,rice_mill,high,estimated
+Chandpur,Chattogram,mustard,Mustard/Rapeseed,oilseed,yes,4,16000,19200,14000,16800,6720,oil_mill,high,estimated
+Chandpur,Chattogram,lentil,Lentil,pulse,yes,3,6000,6000,4000,4000,0,dryer,medium,estimated
+Chattogram,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,3,35000,98000,3000,8400,0,rice_mill,medium,estimated
+Chattogram,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,3,25000,112500,2000,9000,0,rice_mill,medium,estimated
+Chattogram,Chattogram,aus_rice,Aus Rice,cereal,yes,4,18000,32400,3000,5400,0,rice_mill,high,estimated
+Chattogram,Chattogram,soybean,Soybean,oilseed,yes,4,6000,8400,10000,14000,2660,oil_mill,high,estimated
+Cox's Bazar,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,3,32000,89600,3000,8400,0,rice_mill,medium,estimated
+Cox's Bazar,Chattogram,aus_rice,Aus Rice,cereal,yes,4,15000,27000,3000,5400,0,rice_mill,high,estimated
+Cox's Bazar,Chattogram,sesame,Sesame,oilseed,yes,4,5000,4500,8000,7200,3744,oil_mill,high,estimated
+Cox's Bazar,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,3,3500,5250,6000,9000,4320,oil_mill,medium,estimated
+Comilla,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,5,95000,266000,5000,14000,0,rice_mill,high,actual
+Comilla,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,5,75000,337500,4000,18000,0,rice_mill,high,actual
+Comilla,Chattogram,mustard,Mustard/Rapeseed,oilseed,yes,4,22000,26400,20000,24000,9600,oil_mill,high,estimated
+Comilla,Chattogram,lentil,Lentil,pulse,yes,4,12000,12000,8000,8000,0,dryer,high,estimated
+Comilla,Chattogram,potato,Potato,tuber,yes,4,15000,330000,5000,110000,0,cold_storage,high,estimated
+Feni,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,30000,84000,3000,8400,0,rice_mill,high,estimated
+Feni,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,3,18000,81000,2000,9000,0,rice_mill,medium,estimated
+Feni,Chattogram,soybean,Soybean,oilseed,yes,4,5000,7000,8000,11200,2128,oil_mill,high,estimated
+Feni,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,3,2500,3750,5000,7500,3600,oil_mill,medium,estimated
+Khagrachhari,Chattogram,aus_rice,Aus Rice,cereal,yes,4,15000,27000,3000,5400,0,rice_mill,high,estimated
+Khagrachhari,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,20000,56000,3000,8400,0,rice_mill,high,estimated
+Khagrachhari,Chattogram,sesame,Sesame,oilseed,yes,4,5000,4500,8000,7200,3744,oil_mill,high,estimated
+Khagrachhari,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,6000,9000,4320,oil_mill,medium,estimated
+Lakshmipur,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Lakshmipur,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Lakshmipur,Chattogram,soybean,Soybean,oilseed,yes,4,6000,8400,10000,14000,2660,oil_mill,high,estimated
+Lakshmipur,Chattogram,mung_bean,Mung Bean,pulse,yes,3,6000,6600,3000,3300,0,dryer,medium,estimated
+Noakhali,Chattogram,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,52000,166400,8000,25600,0,rice_mill,high,estimated
+Noakhali,Chattogram,boro_rice_regular,Regular Boro Rice,cereal,yes,4,38000,171000,5000,22500,0,rice_mill,high,estimated
+Noakhali,Chattogram,soybean,Soybean,oilseed,yes,5,12000,16800,18000,25200,4788,oil_mill,high,actual
+Noakhali,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,4,8000,12000,12000,18000,8640,oil_mill,high,estimated
+Noakhali,Chattogram,lentil,Lentil,pulse,yes,3,6000,6000,4000,4000,0,dryer,medium,estimated
+Rangamati,Chattogram,aus_rice,Aus Rice,cereal,yes,4,20000,36000,4000,7200,0,rice_mill,high,estimated
+Rangamati,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,4,25000,70000,3000,8400,0,rice_mill,high,estimated
+Rangamati,Chattogram,sesame,Sesame,oilseed,yes,4,6000,5400,10000,9000,4680,oil_mill,high,estimated
+Rangamati,Chattogram,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,8000,12000,5760,oil_mill,medium,estimated
+Bogura,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,62000,173600,5000,14000,0,rice_mill,high,estimated
+Bogura,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,55000,247500,4000,18000,0,rice_mill,high,actual
+Bogura,Rajshahi,potato,Potato,tuber,yes,5,35000,770000,10000,220000,0,cold_storage,high,actual
+Bogura,Rajshahi,maize,Maize,cereal,yes,4,18000,135000,10000,75000,0,dryer,high,estimated
+Bogura,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,28000,33600,25000,30000,12000,oil_mill,high,estimated
+Chapai Nawabganj,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Chapai Nawabganj,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Chapai Nawabganj,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,30000,36000,25000,30000,12000,oil_mill,high,estimated
+Chapai Nawabganj,Rajshahi,garlic,Garlic,spice,yes,5,12000,90000,8000,60000,0,cold_storage,high,actual
+Chapai Nawabganj,Rajshahi,wheat,Wheat,cereal,yes,4,10000,31000,5000,15500,0,flour_mill,high,estimated
+Joypurhat,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Joypurhat,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,42000,189000,3000,13500,0,rice_mill,high,actual
+Joypurhat,Rajshahi,potato,Potato,tuber,yes,5,28000,616000,8000,176000,0,cold_storage,high,actual
+Joypurhat,Rajshahi,wheat,Wheat,cereal,yes,4,10000,31000,5000,15500,0,flour_mill,high,estimated
+Joypurhat,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,4,15000,18000,12000,14400,5760,oil_mill,high,estimated
+Naogaon,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,65000,182000,5000,14000,0,rice_mill,high,estimated
+Naogaon,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,58000,261000,4000,18000,0,rice_mill,high,actual
+Naogaon,Rajshahi,wheat,Wheat,cereal,yes,4,15000,46500,8000,24800,0,flour_mill,high,estimated
+Naogaon,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,30000,36000,25000,30000,12000,oil_mill,high,estimated
+Naogaon,Rajshahi,potato,Potato,tuber,yes,4,18000,396000,6000,132000,0,cold_storage,high,estimated
+Natore,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,42000,117600,4000,11200,0,rice_mill,high,estimated
+Natore,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,45000,202500,4000,18000,0,rice_mill,high,actual
+Natore,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,32000,38400,28000,33600,13440,oil_mill,high,estimated
+Natore,Rajshahi,onion,Onion,vegetable,yes,4,10000,105000,6000,63000,0,cold_storage,high,estimated
+Natore,Rajshahi,wheat,Wheat,cereal,yes,3,6000,18600,4000,12400,0,flour_mill,medium,estimated
+Pabna,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,52000,145600,5000,14000,0,rice_mill,high,estimated
+Pabna,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,55000,247500,4000,18000,0,rice_mill,high,actual
+Pabna,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,40000,48000,35000,42000,16800,oil_mill,high,estimated
+Pabna,Rajshahi,onion,Onion,vegetable,yes,4,12000,126000,8000,84000,0,cold_storage,high,estimated
+Pabna,Rajshahi,grass_pea,Grass Pea/Khesari,pulse,yes,4,20000,24000,10000,12000,0,dryer,medium,estimated
+Rajshahi,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,52000,145600,5000,14000,0,rice_mill,high,estimated
+Rajshahi,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,5,55000,247500,4000,18000,0,rice_mill,high,actual
+Rajshahi,Rajshahi,wheat,Wheat,cereal,yes,5,25000,77500,12000,37200,0,flour_mill,high,actual
+Rajshahi,Rajshahi,onion,Onion,vegetable,yes,5,20000,210000,12000,126000,0,cold_storage,high,actual
+Rajshahi,Rajshahi,garlic,Garlic,spice,yes,5,10000,75000,6000,45000,0,cold_storage,high,actual
+Rajshahi,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,35000,42000,30000,36000,14400,oil_mill,high,estimated
+Sirajganj,Rajshahi,aman_rice_long,Traditional Aman Rice,cereal,yes,4,65000,182000,5000,14000,0,rice_mill,high,estimated
+Sirajganj,Rajshahi,boro_rice_regular,Regular Boro Rice,cereal,yes,4,52000,234000,4000,18000,0,rice_mill,high,estimated
+Sirajganj,Rajshahi,mustard,Mustard/Rapeseed,oilseed,yes,5,42000,50400,35000,42000,16800,oil_mill,high,estimated
+Sirajganj,Rajshahi,grass_pea,Grass Pea/Khesari,pulse,yes,4,25000,30000,12000,14400,0,dryer,medium,estimated
+Sirajganj,Rajshahi,lentil,Lentil,pulse,yes,3,8000,8000,5000,5000,0,dryer,medium,estimated
+Dinajpur,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,5,85000,238000,5000,14000,0,rice_mill,high,actual
+Dinajpur,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,5,75000,337500,4000,18000,0,rice_mill,high,actual
+Dinajpur,Rangpur,potato,Potato,tuber,yes,5,42000,924000,10000,220000,0,cold_storage,high,actual
+Dinajpur,Rangpur,wheat,Wheat,cereal,yes,5,28000,86800,12000,37200,0,flour_mill,high,actual
+Dinajpur,Rangpur,maize,Maize,cereal,yes,5,35000,262500,15000,112500,0,dryer,high,actual
+Dinajpur,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,5,32000,38400,25000,30000,12000,oil_mill,high,estimated
+Dinajpur,Rangpur,lentil,Lentil,pulse,yes,4,12000,12000,8000,8000,0,dryer,high,estimated
+Gaibandha,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,52000,145600,5000,14000,0,rice_mill,high,estimated
+Gaibandha,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,4,42000,189000,4000,18000,0,rice_mill,high,estimated
+Gaibandha,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,25000,30000,22000,26400,10560,oil_mill,high,estimated
+Gaibandha,Rangpur,maize,Maize,cereal,yes,4,15000,112500,8000,60000,0,dryer,high,estimated
+Gaibandha,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,4,8000,12000,12000,18000,8640,oil_mill,high,estimated
+Kurigram,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,45000,126000,5000,14000,0,rice_mill,high,estimated
+Kurigram,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,3,28000,126000,3000,13500,0,rice_mill,medium,estimated
+Kurigram,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,18000,21600,18000,21600,8640,oil_mill,high,estimated
+Kurigram,Rangpur,maize,Maize,cereal,yes,4,12000,90000,8000,60000,0,dryer,high,estimated
+Kurigram,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,4,6000,9000,10000,15000,7200,oil_mill,high,estimated
+Lalmonirhat,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,35000,98000,4000,11200,0,rice_mill,high,estimated
+Lalmonirhat,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,4,28000,126000,3000,13500,0,rice_mill,high,estimated
+Lalmonirhat,Rangpur,maize,Maize,cereal,yes,5,25000,187500,12000,90000,0,dryer,high,actual
+Lalmonirhat,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,15000,18000,14000,16800,6720,oil_mill,high,estimated
+Nilphamari,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,42000,117600,4000,11200,0,rice_mill,high,estimated
+Nilphamari,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,5,45000,202500,4000,18000,0,rice_mill,high,actual
+Nilphamari,Rangpur,maize,Maize,cereal,yes,5,22000,165000,10000,75000,0,dryer,high,actual
+Nilphamari,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,16000,19200,14000,16800,6720,oil_mill,high,estimated
+Nilphamari,Rangpur,potato,Potato,tuber,yes,4,15000,330000,5000,110000,0,cold_storage,high,estimated
+Panchagarh,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,25000,70000,3000,8400,0,rice_mill,high,estimated
+Panchagarh,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,4,20000,90000,2500,11250,0,rice_mill,high,estimated
+Panchagarh,Rangpur,wheat,Wheat,cereal,yes,4,8000,24800,5000,15500,0,flour_mill,high,estimated
+Panchagarh,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,10000,12000,10000,12000,4800,oil_mill,high,estimated
+Panchagarh,Rangpur,maize,Maize,cereal,yes,3,6000,45000,4000,30000,0,dryer,medium,estimated
+Rangpur,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,5,75000,210000,5000,14000,0,rice_mill,high,actual
+Rangpur,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,5,65000,292500,4000,18000,0,rice_mill,high,actual
+Rangpur,Rangpur,potato,Potato,tuber,yes,5,38000,836000,10000,220000,0,cold_storage,high,actual
+Rangpur,Rangpur,maize,Maize,cereal,yes,5,30000,225000,12000,90000,0,dryer,high,actual
+Rangpur,Rangpur,wheat,Wheat,cereal,yes,4,15000,46500,8000,24800,0,flour_mill,high,estimated
+Rangpur,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,5,28000,33600,22000,26400,10560,oil_mill,high,estimated
+Thakurgaon,Rangpur,aman_rice_long,Traditional Aman Rice,cereal,yes,4,38000,106400,4000,11200,0,rice_mill,high,estimated
+Thakurgaon,Rangpur,boro_rice_regular,Regular Boro Rice,cereal,yes,4,32000,144000,3000,13500,0,rice_mill,high,estimated
+Thakurgaon,Rangpur,wheat,Wheat,cereal,yes,4,10000,31000,6000,18600,0,flour_mill,high,estimated
+Thakurgaon,Rangpur,maize,Maize,cereal,yes,4,15000,112500,8000,60000,0,dryer,high,estimated
+Thakurgaon,Rangpur,mustard,Mustard/Rapeseed,oilseed,yes,4,14000,16800,12000,14400,5760,oil_mill,high,estimated
+Habiganj,Sylhet,aman_rice_long,Traditional Aman Rice,cereal,yes,4,55000,154000,4000,11200,0,rice_mill,high,estimated
+Habiganj,Sylhet,boro_rice_regular,Regular Boro Rice,cereal,yes,3,28000,126000,3000,13500,0,rice_mill,medium,estimated
+Habiganj,Sylhet,aus_rice,Aus Rice,cereal,yes,3,12000,21600,2000,3600,0,rice_mill,medium,estimated
+Habiganj,Sylhet,lentil,Lentil,pulse,yes,3,4000,4000,3000,3000,0,dryer,medium,estimated
+Moulvibazar,Sylhet,aman_rice_long,Traditional Aman Rice,cereal,yes,4,40000,112000,3000,8400,0,rice_mill,high,estimated
+Moulvibazar,Sylhet,boro_rice_regular,Regular Boro Rice,cereal,yes,3,20000,90000,2000,9000,0,rice_mill,medium,estimated
+Moulvibazar,Sylhet,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Moulvibazar,Sylhet,sesame,Sesame,oilseed,no,3,0,0,5000,4500,2340,oil_mill,low,estimated
+Sunamganj,Sylhet,aman_rice_long,Traditional Aman Rice,cereal,yes,5,95000,266000,0,0,0,rice_mill,high,actual
+Sunamganj,Sylhet,boro_rice_short,Short-duration Boro Rice,cereal,yes,5,65000,273000,5000,21000,0,rice_mill,high,actual
+Sunamganj,Sylhet,mustard,Mustard/Rapeseed,oilseed,yes,4,15000,18000,18000,21600,8640,oil_mill,high,estimated
+Sunamganj,Sylhet,lentil,Lentil,pulse,yes,3,4000,4000,3000,3000,0,dryer,medium,estimated
+Sylhet,Sylhet,aman_rice_long,Traditional Aman Rice,cereal,yes,5,80000,224000,0,0,0,rice_mill,high,actual
+Sylhet,Sylhet,boro_rice_regular,Regular Boro Rice,cereal,yes,4,45000,202500,3000,13500,0,rice_mill,high,actual
+Sylhet,Sylhet,aus_rice,Aus Rice,cereal,yes,3,10000,18000,2000,3600,0,rice_mill,medium,estimated
+Sylhet,Sylhet,mustard,Mustard/Rapeseed,oilseed,no,3,0,0,8000,9600,3840,oil_mill,medium,estimated
+Jamalpur,Mymensingh,aman_rice_long,Traditional Aman Rice,cereal,yes,4,52000,145600,5000,14000,0,rice_mill,high,estimated
+Jamalpur,Mymensingh,boro_rice_regular,Regular Boro Rice,cereal,yes,4,38000,171000,4000,18000,0,rice_mill,high,estimated
+Jamalpur,Mymensingh,sesame,Sesame,oilseed,yes,4,8000,7200,12000,10800,5616,oil_mill,high,estimated
+Jamalpur,Mymensingh,mustard,Mustard/Rapeseed,oilseed,yes,4,12000,14400,12000,14400,5760,oil_mill,high,estimated
+Jamalpur,Mymensingh,groundnut,Groundnut/Peanut,oilseed,yes,3,4000,6000,6000,9000,4320,oil_mill,medium,estimated
+Mymensingh,Mymensingh,aman_rice_long,Traditional Aman Rice,cereal,yes,5,85000,238000,5000,14000,0,rice_mill,high,actual
+Mymensingh,Mymensingh,boro_rice_regular,Regular Boro Rice,cereal,yes,5,65000,292500,4000,18000,0,rice_mill,high,actual
+Mymensingh,Mymensingh,mustard,Mustard/Rapeseed,oilseed,yes,4,20000,24000,20000,24000,9600,oil_mill,high,estimated
+Mymensingh,Mymensingh,lentil,Lentil,pulse,yes,4,10000,10000,6000,6000,0,dryer,high,estimated
+Mymensingh,Mymensingh,maize,Maize,cereal,yes,4,12000,90000,6000,45000,0,dryer,high,estimated
+Netrokona,Mymensingh,aman_rice_long,Traditional Aman Rice,cereal,yes,5,65000,182000,4000,11200,0,rice_mill,high,actual
+Netrokona,Mymensingh,boro_rice_regular,Regular Boro Rice,cereal,yes,4,40000,180000,3000,13500,0,rice_mill,high,estimated
+Netrokona,Mymensingh,mustard,Mustard/Rapeseed,oilseed,yes,4,14000,16800,14000,16800,6720,oil_mill,high,estimated
+Netrokona,Mymensingh,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Sherpur,Mymensingh,aman_rice_long,Traditional Aman Rice,cereal,yes,4,32000,89600,3000,8400,0,rice_mill,high,estimated
+Sherpur,Mymensingh,boro_rice_regular,Regular Boro Rice,cereal,yes,4,25000,112500,2500,11250,0,rice_mill,high,estimated
+Sherpur,Mymensingh,sesame,Sesame,oilseed,yes,5,10000,9000,15000,13500,7020,oil_mill,high,estimated
+Sherpur,Mymensingh,mustard,Mustard/Rapeseed,oilseed,yes,4,10000,12000,10000,12000,4800,oil_mill,high,estimated
+Sherpur,Mymensingh,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Bhaluka,Mymensingh,aman_rice_long,Traditional Aman Rice,cereal,yes,3,18000,50400,2000,5600,0,rice_mill,medium,estimated
+Bhaluka,Mymensingh,boro_rice_regular,Regular Boro Rice,cereal,yes,3,14000,63000,1500,6750,0,rice_mill,medium,estimated
+Bhaluka,Mymensingh,mustard,Mustard/Rapeseed,oilseed,yes,3,5000,6000,6000,7200,2880,oil_mill,medium,estimated
+Bhaluka,Mymensingh,maize,Maize,cereal,yes,3,5000,37500,3000,22500,0,dryer,medium,estimated
+Coxs Bazar,Chattogram,aman_rice_long,Traditional Aman Rice,cereal,yes,3,25000,70000,3000,8400,0,rice_mill,medium,estimated
+Coxs Bazar,Chattogram,mung_bean,Mung Bean,pulse,yes,3,5000,5500,4000,4400,0,dryer,medium,estimated
+Coxs Bazar,Chattogram,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Munshigonj,Dhaka,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,18000,57600,5000,16000,0,rice_mill,high,estimated
+Munshigonj,Dhaka,mustard,Mustard/Rapeseed,oilseed,yes,4,8000,9600,10000,12000,4800,oil_mill,high,estimated
+Munshigonj,Dhaka,lentil,Lentil,pulse,yes,3,4000,4000,3000,3000,0,dryer,medium,estimated
+Khulna,Khulna,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,5000,7500,3600,oil_mill,medium,estimated
+Barisal,Barisal,lentil,Lentil,pulse,yes,3,4000,4000,3000,3000,0,dryer,medium,estimated
+Noakhali,Chattogram,mung_bean,Mung Bean,pulse,yes,4,10000,11000,6000,6600,0,dryer,high,estimated
+Chattogram,Chattogram,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Sylhet,Sylhet,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Habiganj,Sylhet,mustard,Mustard/Rapeseed,oilseed,yes,3,5000,6000,6000,7200,2880,oil_mill,medium,estimated
+Moulvibazar,Sylhet,mustard,Mustard/Rapeseed,oilseed,no,3,0,0,5000,6000,2400,oil_mill,low,estimated
+Sunamganj,Sylhet,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2000,2200,0,dryer,medium,estimated
+Jamalpur,Mymensingh,lentil,Lentil,pulse,yes,3,4000,4000,3000,3000,0,dryer,medium,estimated
+Sherpur,Mymensingh,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Barguna,Barisal,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,6000,9000,4320,oil_mill,medium,estimated
+Jhalokati,Barisal,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,4000,6000,2880,oil_mill,low,estimated
+Pirojpur,Barisal,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,5000,7500,3600,oil_mill,medium,estimated
+Chandpur,Chattogram,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Lakshmipur,Chattogram,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,4000,6000,2880,oil_mill,medium,estimated
+Feni,Chattogram,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Khagrachhari,Chattogram,mung_bean,Mung Bean,pulse,yes,3,3000,3300,2000,2200,0,dryer,medium,estimated
+Bandarban,Chattogram,mung_bean,Mung Bean,pulse,yes,3,3000,3300,2000,2200,0,dryer,medium,estimated
+Rangamati,Chattogram,mung_bean,Mung Bean,pulse,yes,3,3000,3300,2000,2200,0,dryer,medium,estimated
+Cox's Bazar,Chattogram,sunflower,Sunflower,oilseed,no,3,0,0,5000,7500,3000,oil_mill,medium,estimated
+Bhola,Barisal,mustard,Mustard/Rapeseed,oilseed,yes,4,12000,14400,10000,12000,4800,oil_mill,high,estimated
+Bhola,Barisal,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Patuakhali,Barisal,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Barguna,Barisal,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Satkhira,Khulna,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Kushtia,Khulna,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Magura,Khulna,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Narail,Khulna,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,medium,estimated
+Jhenaidah,Khulna,lentil,Lentil,pulse,yes,4,10000,10000,6000,6000,0,dryer,high,estimated
+Chuadanga,Khulna,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Jessore,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,5,45000,54000,35000,42000,16800,oil_mill,high,actual
+Narsingdi,Dhaka,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Narsingdi,Dhaka,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Narayanganj,Dhaka,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Gazipur,Dhaka,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Gazipur,Dhaka,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Tangail,Dhaka,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Kishoreganj,Dhaka,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Madaripur,Dhaka,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Madaripur,Dhaka,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Gopalganj,Dhaka,grass_pea,Grass Pea/Khesari,pulse,yes,3,8000,9600,4000,4800,0,dryer,medium,estimated
+Shariatpur,Dhaka,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Shariatpur,Dhaka,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Sirajganj,Rajshahi,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Pabna,Rajshahi,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Natore,Rajshahi,lentil,Lentil,pulse,yes,4,10000,10000,6000,6000,0,dryer,high,estimated
+Naogaon,Rajshahi,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Chapai Nawabganj,Rajshahi,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Rajshahi,Rajshahi,lentil,Lentil,pulse,yes,4,10000,10000,6000,6000,0,dryer,high,estimated
+Gaibandha,Rangpur,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Kurigram,Rangpur,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Thakurgaon,Rangpur,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Rangpur,Rangpur,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Nilphamari,Rangpur,lentil,Lentil,pulse,yes,3,5000,5000,3000,3000,0,dryer,medium,estimated
+Panchagarh,Rangpur,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Lalmonirhat,Rangpur,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Kushtia,Khulna,sesame,Sesame,oilseed,yes,4,5000,4500,7000,6300,3276,oil_mill,high,estimated
+Jessore,Khulna,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Rajshahi,Rajshahi,sesame,Sesame,oilseed,yes,3,4000,3600,6000,5400,2808,oil_mill,medium,estimated
+Bogura,Rajshahi,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Bogura,Rajshahi,wheat,Wheat,cereal,yes,4,12000,37200,6000,18600,0,flour_mill,high,estimated
+Mymensingh,Mymensingh,potato,Potato,tuber,yes,3,8000,176000,3000,66000,0,cold_storage,medium,estimated
+Comilla,Chattogram,mung_bean,Mung Bean,pulse,yes,3,6000,6600,3000,3300,0,dryer,medium,estimated
+Dinajpur,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Rangpur,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Gaibandha,Rangpur,mung_bean,Mung Bean,pulse,yes,4,8000,8800,5000,5500,0,dryer,high,estimated
+Kurigram,Rangpur,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Narayanganj,Dhaka,mung_bean,Mung Bean,pulse,yes,3,3000,3300,2000,2200,0,dryer,low,estimated
+Dhaka,Dhaka,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Manikganj,Dhaka,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Manikganj,Dhaka,grass_pea,Grass Pea/Khesari,pulse,yes,4,10000,12000,5000,6000,0,dryer,medium,estimated
+Rajbari,Dhaka,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Rajbari,Dhaka,grass_pea,Grass Pea/Khesari,pulse,yes,4,10000,12000,5000,6000,0,dryer,medium,estimated
+Faridpur,Dhaka,mung_bean,Mung Bean,pulse,yes,3,6000,6600,4000,4400,0,dryer,medium,estimated
+Faridpur,Dhaka,sesame,Sesame,oilseed,yes,3,4000,3600,6000,5400,2808,oil_mill,medium,estimated
+Tangail,Dhaka,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Tangail,Dhaka,maize,Maize,cereal,yes,3,5000,37500,3000,22500,0,dryer,medium,estimated
+Kishoreganj,Dhaka,grass_pea,Grass Pea/Khesari,pulse,yes,4,15000,18000,8000,9600,0,dryer,medium,estimated
+Brahmanbaria,Chattogram,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Brahmanbaria,Chattogram,grass_pea,Grass Pea/Khesari,pulse,yes,3,6000,7200,3000,3600,0,dryer,medium,estimated
+Dinajpur,Rangpur,sesame,Sesame,oilseed,yes,3,4000,3600,6000,5400,2808,oil_mill,medium,estimated
+Thakurgaon,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,3,3000,4500,5000,7500,3600,oil_mill,medium,estimated
+Panchagarh,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,3,2000,3000,4000,6000,2880,oil_mill,medium,estimated
+Naogaon,Rajshahi,maize,Maize,cereal,yes,4,12000,90000,6000,45000,0,dryer,high,estimated
+Natore,Rajshahi,maize,Maize,cereal,yes,3,6000,45000,4000,30000,0,dryer,medium,estimated
+Sirajganj,Rajshahi,maize,Maize,cereal,yes,3,5000,37500,3000,22500,0,dryer,medium,estimated
+Comilla,Chattogram,maize,Maize,cereal,yes,3,5000,37500,3000,22500,0,dryer,medium,estimated
+Mymensingh,Mymensingh,wheat,Wheat,cereal,yes,3,5000,15500,3000,9300,0,flour_mill,medium,estimated
+Jamalpur,Mymensingh,wheat,Wheat,cereal,yes,3,4000,12400,3000,9300,0,flour_mill,medium,estimated
+Netrokona,Mymensingh,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Netrokona,Mymensingh,grass_pea,Grass Pea/Khesari,pulse,yes,3,5000,6000,3000,3600,0,dryer,medium,estimated
+Kishoreganj,Dhaka,wheat,Wheat,cereal,no,3,0,0,4000,12400,0,flour_mill,low,estimated
+Sunamganj,Sylhet,grass_pea,Grass Pea/Khesari,pulse,yes,4,12000,14400,6000,7200,0,dryer,medium,estimated
+Sylhet,Sylhet,mung_bean,Mung Bean,pulse,yes,3,3000,3300,2000,2200,0,dryer,low,estimated
+Habiganj,Sylhet,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Habiganj,Sylhet,grass_pea,Grass Pea/Khesari,pulse,yes,3,5000,6000,3000,3600,0,dryer,medium,estimated
+Moulvibazar,Sylhet,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,3000,4500,2160,oil_mill,low,estimated
+Satkhira,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,4,15000,18000,14000,16800,6720,oil_mill,high,estimated
+Bagerhat,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,3,8000,9600,8000,9600,3840,oil_mill,medium,estimated
+Bagerhat,Khulna,lentil,Lentil,pulse,yes,3,3000,3000,2000,2000,0,dryer,low,estimated
+Narail,Khulna,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Magura,Khulna,mung_bean,Mung Bean,pulse,yes,3,4000,4400,2500,2750,0,dryer,medium,estimated
+Meherpur,Khulna,lentil,Lentil,pulse,yes,3,4000,4000,2500,2500,0,dryer,medium,estimated
+Chuadanga,Khulna,mung_bean,Mung Bean,pulse,yes,3,5000,5500,3000,3300,0,dryer,medium,estimated
+Jhenaidah,Khulna,mung_bean,Mung Bean,pulse,yes,3,6000,6600,4000,4400,0,dryer,medium,estimated
+Jhenaidah,Khulna,sesame,Sesame,oilseed,yes,3,4000,3600,6000,5400,2808,oil_mill,medium,estimated
+Dinajpur,Rangpur,hybrid_rice,Hybrid Rice,cereal,yes,4,8000,48000,5000,30000,0,rice_mill,high,estimated
+Bogura,Rajshahi,hybrid_rice,Hybrid Rice,cereal,yes,4,6000,36000,4000,24000,0,rice_mill,high,estimated
+Rangpur,Rangpur,hybrid_rice,Hybrid Rice,cereal,yes,4,7000,42000,4000,24000,0,rice_mill,high,estimated
+Rajshahi,Rajshahi,hybrid_rice,Hybrid Rice,cereal,yes,4,5000,30000,3000,18000,0,rice_mill,high,estimated
+Comilla,Chattogram,hybrid_rice,Hybrid Rice,cereal,yes,4,5000,30000,3000,18000,0,rice_mill,high,estimated
+Mymensingh,Mymensingh,hybrid_rice,Hybrid Rice,cereal,yes,4,5000,30000,3000,18000,0,rice_mill,high,estimated
+Sylhet,Sylhet,hybrid_rice,Hybrid Rice,cereal,no,3,0,0,3000,18000,0,rice_mill,medium,estimated
+Brahmanbaria,Chattogram,hybrid_rice,Hybrid Rice,cereal,yes,3,3000,18000,2000,12000,0,rice_mill,medium,estimated
+Pabna,Rajshahi,hybrid_rice,Hybrid Rice,cereal,yes,4,5000,30000,3000,18000,0,rice_mill,high,estimated
+Natore,Rajshahi,grass_pea,Grass Pea/Khesari,pulse,yes,4,12000,14400,6000,7200,0,dryer,medium,estimated
+Pabna,Rajshahi,grass_pea,Grass Pea/Khesari,pulse,yes,4,18000,21600,8000,9600,0,dryer,medium,estimated
+Rajshahi,Rajshahi,grass_pea,Grass Pea/Khesari,pulse,yes,4,10000,12000,5000,6000,0,dryer,medium,estimated
+Faridpur,Dhaka,wheat,Wheat,cereal,yes,3,5000,15500,3000,9300,0,flour_mill,medium,estimated
+Rajbari,Dhaka,wheat,Wheat,cereal,yes,3,4000,12400,3000,9300,0,flour_mill,medium,estimated
+Manikganj,Dhaka,wheat,Wheat,cereal,no,3,0,0,3000,9300,0,flour_mill,low,estimated
+Comilla,Chattogram,wheat,Wheat,cereal,yes,3,5000,15500,3000,9300,0,flour_mill,medium,estimated
+Sylhet,Sylhet,potato,Potato,tuber,yes,3,5000,110000,2000,44000,0,cold_storage,medium,estimated
+Habiganj,Sylhet,potato,Potato,tuber,yes,3,4000,88000,2000,44000,0,cold_storage,medium,estimated
+Comilla,Chattogram,onion,Onion,vegetable,yes,3,5000,52500,3000,31500,0,cold_storage,medium,estimated
+Bogura,Rajshahi,onion,Onion,vegetable,yes,3,6000,63000,4000,42000,0,cold_storage,medium,estimated
+Dinajpur,Rangpur,onion,Onion,vegetable,yes,3,5000,52500,3000,31500,0,cold_storage,medium,estimated
+Rangpur,Rangpur,onion,Onion,vegetable,yes,3,5000,52500,3000,31500,0,cold_storage,medium,estimated
+Dhaka,Dhaka,onion,Onion,vegetable,yes,3,4000,42000,2500,26250,0,cold_storage,medium,estimated
+Mymensingh,Mymensingh,onion,Onion,vegetable,yes,3,4000,42000,2500,26250,0,cold_storage,medium,estimated
+Chapai Nawabganj,Rajshahi,onion,Onion,vegetable,yes,4,8000,84000,5000,52500,0,cold_storage,high,estimated
+Natore,Rajshahi,garlic,Garlic,spice,yes,4,6000,45000,4000,30000,0,cold_storage,high,estimated
+Pabna,Rajshahi,garlic,Garlic,spice,yes,4,5000,37500,3000,22500,0,cold_storage,high,estimated
+Faridpur,Dhaka,garlic,Garlic,spice,yes,4,5000,37500,3000,22500,0,cold_storage,high,estimated
+Rajbari,Dhaka,garlic,Garlic,spice,yes,4,6000,45000,4000,30000,0,cold_storage,high,actual
+Manikganj,Dhaka,garlic,Garlic,spice,yes,3,3000,22500,2000,15000,0,cold_storage,medium,estimated
+Meherpur,Khulna,garlic,Garlic,spice,yes,3,2000,15000,1500,11250,0,cold_storage,medium,estimated
+Jessore,Khulna,garlic,Garlic,spice,yes,3,2500,18750,1500,11250,0,cold_storage,medium,estimated
+Jhenaidah,Khulna,garlic,Garlic,spice,yes,3,2000,15000,1500,11250,0,cold_storage,medium,estimated
+Kushtia,Khulna,garlic,Garlic,spice,yes,3,2000,15000,1500,11250,0,cold_storage,medium,estimated
+Bogura,Rajshahi,garlic,Garlic,spice,yes,3,3000,22500,2000,15000,0,cold_storage,medium,estimated
+Rangpur,Rangpur,garlic,Garlic,spice,yes,3,3000,22500,2000,15000,0,cold_storage,medium,estimated
+Dinajpur,Rangpur,garlic,Garlic,spice,yes,3,3000,22500,2000,15000,0,cold_storage,medium,estimated
+Noakhali,Chattogram,sunflower,Sunflower,oilseed,no,3,0,0,6000,9000,3600,oil_mill,medium,estimated
+Barisal,Barisal,groundnut,Groundnut/Peanut,oilseed,no,3,0,0,5000,7500,3600,oil_mill,medium,estimated
+Satkhira,Khulna,groundnut,Groundnut/Peanut,oilseed,yes,4,5000,7500,8000,12000,5760,oil_mill,high,estimated
+Khulna,Khulna,mustard,Mustard/Rapeseed,oilseed,yes,3,8000,9600,8000,9600,3840,oil_mill,medium,estimated
+Mymensingh,Mymensingh,grass_pea,Grass Pea/Khesari,pulse,yes,3,8000,9600,4000,4800,0,dryer,medium,estimated
+Joypurhat,Rajshahi,maize,Maize,cereal,yes,4,10000,75000,6000,45000,0,dryer,high,estimated
+Joypurhat,Rajshahi,lentil,Lentil,pulse,yes,4,8000,8000,5000,5000,0,dryer,high,estimated
+Lalmonirhat,Rangpur,groundnut,Groundnut/Peanut,oilseed,yes,4,5000,7500,8000,12000,5760,oil_mill,high,estimated
+Lalmonirhat,Rangpur,potato,Potato,tuber,yes,3,8000,176000,3000,66000,0,cold_storage,medium,estimated
+Kurigram,Rangpur,potato,Potato,tuber,yes,3,6000,132000,2000,44000,0,cold_storage,medium,estimated
+Gaibandha,Rangpur,potato,Potato,tuber,yes,3,8000,176000,3000,66000,0,cold_storage,medium,estimated
+Thakurgaon,Rangpur,potato,Potato,tuber,yes,4,18000,396000,5000,110000,0,cold_storage,high,estimated
+Panchagarh,Rangpur,potato,Potato,tuber,yes,3,8000,176000,3000,66000,0,cold_storage,medium,estimated
+Nilphamari,Rangpur,potato,Potato,tuber,yes,4,12000,264000,4000,88000,0,cold_storage,high,estimated
+Naogaon,Rajshahi,potato,Potato,tuber,yes,4,15000,330000,5000,110000,0,cold_storage,high,estimated
+Chapai Nawabganj,Rajshahi,potato,Potato,tuber,yes,3,8000,176000,3000,66000,0,cold_storage,medium,estimated
+Sirajganj,Rajshahi,potato,Potato,tuber,yes,3,6000,132000,3000,66000,0,cold_storage,medium,estimated
+Pabna,Rajshahi,potato,Potato,tuber,yes,3,6000,132000,3000,66000,0,cold_storage,medium,estimated
+Natore,Rajshahi,potato,Potato,tuber,yes,3,5000,110000,2000,44000,0,cold_storage,medium,estimated
+Comilla,Chattogram,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Noakhali,Chattogram,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Patuakhali,Barisal,aus_rice,Aus Rice,cereal,yes,3,6000,10800,2000,3600,0,rice_mill,medium,estimated
+Bhola,Barisal,aus_rice,Aus Rice,cereal,yes,3,5000,9000,2000,3600,0,rice_mill,medium,estimated
+Barguna,Barisal,aus_rice,Aus Rice,cereal,yes,3,5000,9000,2000,3600,0,rice_mill,medium,estimated
+Satkhira,Khulna,aus_rice,Aus Rice,cereal,yes,3,5000,9000,2000,3600,0,rice_mill,medium,estimated
+Bagerhat,Khulna,aus_rice,Aus Rice,cereal,yes,3,5000,9000,2000,3600,0,rice_mill,medium,estimated
+Sunamganj,Sylhet,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Sylhet,Sylhet,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Kishoreganj,Dhaka,boro_rice_regular,Regular Boro Rice,cereal,yes,4,55000,247500,4000,18000,0,rice_mill,high,estimated
+Kishoreganj,Dhaka,aus_rice,Aus Rice,cereal,yes,3,8000,14400,2000,3600,0,rice_mill,medium,estimated
+Manikganj,Dhaka,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,15000,48000,8000,25600,0,rice_mill,high,estimated
+Shariatpur,Dhaka,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,15000,48000,8000,25600,0,rice_mill,high,estimated
+Gopalganj,Dhaka,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,15000,48000,8000,25600,0,rice_mill,high,estimated
+Brahmanbaria,Chattogram,aman_rice_short,Short-duration Aman Rice,cereal,yes,3,12000,38400,5000,16000,0,rice_mill,medium,estimated
+Chandpur,Chattogram,aman_rice_short,Short-duration Aman Rice,cereal,yes,3,12000,38400,5000,16000,0,rice_mill,medium,estimated
+Sunamganj,Sylhet,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,20000,64000,8000,25600,0,rice_mill,high,estimated
+Sylhet,Sylhet,aman_rice_short,Short-duration Aman Rice,cereal,yes,3,15000,48000,5000,16000,0,rice_mill,medium,estimated
+Netrokona,Mymensingh,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,20000,64000,8000,25600,0,rice_mill,high,estimated
+Jamalpur,Mymensingh,aman_rice_short,Short-duration Aman Rice,cereal,yes,3,12000,38400,5000,16000,0,rice_mill,medium,estimated
+Rangpur,Rangpur,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,20000,64000,10000,32000,0,rice_mill,high,estimated
+Dinajpur,Rangpur,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,18000,57600,10000,32000,0,rice_mill,high,estimated
+Bogura,Rajshahi,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,18000,57600,10000,32000,0,rice_mill,high,estimated
+Rajshahi,Rajshahi,aman_rice_short,Short-duration Aman Rice,cereal,yes,4,15000,48000,10000,32000,0,rice_mill,high,estimated
+Comilla,Chattogram,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,18000,75600,6000,25200,0,rice_mill,high,estimated
+Bogura,Rajshahi,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,14000,58800,5000,21000,0,rice_mill,high,estimated
+Rajshahi,Rajshahi,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,12000,50400,5000,21000,0,rice_mill,high,estimated
+Dinajpur,Rangpur,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,15000,63000,5000,21000,0,rice_mill,high,estimated
+Kishoreganj,Dhaka,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,18000,75600,6000,25200,0,rice_mill,high,estimated
+Mymensingh,Mymensingh,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,10000,42000,4000,16800,0,rice_mill,medium,estimated
+Sylhet,Sylhet,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,20000,84000,6000,25200,0,rice_mill,high,estimated
+Habiganj,Sylhet,boro_rice_short,Short-duration Boro Rice,cereal,yes,4,15000,63000,5000,21000,0,rice_mill,high,estimated
+Noakhali,Chattogram,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,10000,42000,4000,16800,0,rice_mill,medium,estimated
+Patuakhali,Barisal,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,10000,42000,4000,16800,0,rice_mill,medium,estimated
+Bhola,Barisal,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,8000,33600,3000,12600,0,rice_mill,medium,estimated
+Barguna,Barisal,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,7000,29400,3000,12600,0,rice_mill,medium,estimated
+Satkhira,Khulna,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,8000,33600,3000,12600,0,rice_mill,medium,estimated
+Bagerhat,Khulna,boro_rice_short,Short-duration Boro Rice,cereal,yes,3,8000,33600,3000,12600,0,rice_mill,medium,estimated
