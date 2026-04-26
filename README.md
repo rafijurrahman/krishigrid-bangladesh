@@ -445,3 +445,162 @@ its business question and key insight directly below it.
 ---
 
 ## Repository Structure
+krishigrid-bangladesh/
+│
+├── README.md
+│
+├── data/
+│ ├── imports.csv
+│ ├── lands.csv
+│ ├── bdcrops.csv
+│ ├── bd_district_crop.csv
+│ ├── hub_costs.csv
+│ ├── impact_projection.csv
+│ ├── megaprojects.csv
+│ ├── pilot_districts.csv
+│ ├── global_food_prices.csv
+│ ├── export_bans.csv
+│ └── country_comparison.csv
+│
+├── reports/
+│ ├── Part1_The_Import_Crisis.pdf
+│ ├── Part2_The_Hidden_Land_Opportunity.pdf
+│ ├── Part3_The_Crop_Revolution.pdf
+│ ├── Part4_The_Solution_Model.pdf
+│ ├── Part5_The_Business_Case.pdf
+│ ├── Part6_The_Pilot_Plan.pdf
+│ ├── Part7_The_Global_Warning.pdf
+│ └── Part8_The_Complete_Journey.pdf
+│
+├── assets/
+│ └── krishigrid_logo.png
+│
+└── docs/
+└── data_dictionary.md
+
+
+---
+
+## Data Sources
+
+**Bangladesh Government**
+
+Bangladesh Bank — bb.org.bd
+Import payment statistics and foreign exchange reserve data
+
+Bangladesh Bureau of Statistics — bbs.gov.bd
+Statistical yearbook, agricultural census, and trade statistics
+
+Department of Agricultural Extension — dae.gov.bd
+Crop production statistics and Krishi Diary
+
+Soil Resource Development Institute — srdi.gov.bd
+Soil mapping and land classification data
+
+Bangladesh Agricultural Research Council — barc.gov.bd
+Agro-ecological zone and land capability data
+
+**Research Institutions**
+
+Bangladesh Rice Research Institute — brri.gov.bd
+Rice variety data, yield data, and growth duration data
+
+Bangladesh Agricultural Research Institute — bari.gov.bd
+Oilseed crop variety data and agronomic research
+
+Bangladesh Institute of Nuclear Agriculture — bina.gov.bd
+Short-duration variety development and research data
+
+**International Sources**
+
+Food and Agriculture Organization — fao.org/faostat
+Trade database and global food price indices
+
+World Bank — worldbank.org
+Commodity price data and agricultural development reports
+
+USDA Foreign Agricultural Service — fas.usda.gov
+Bangladesh commodity and trade reports
+
+The Economist Global Food Security Index — economist.com/gfsi
+Food security scores and country rankings
+
+International Monetary Fund — imf.org
+World economic outlook and foreign reserve data
+
+World Food Programme — wfp.org
+Global acute food insecurity population data
+
+---
+
+## Data Reliability Note
+
+All 11 datasets contain a data_reliability column with
+three possible values.
+
+actual means the data point was sourced directly from
+an official government or international database.
+
+estimated means the value was calculated or approximated
+from secondary sources where primary data was unavailable.
+
+interpolated means the value was derived from adjacent
+data points where specific year data was missing.
+
+All estimated values are cross-referenced across multiple
+sources for consistency. This is a simulation and research
+project built for portfolio and analytical purposes. It
+is not an official government document or policy proposal.
+
+---
+
+## How to Use This Repository
+
+**For data analysts and recruiters**
+
+All 11 datasets are in the data/ folder. All 39 SQL
+queries are inside the PDF reports in the reports/ folder,
+presented with their business question and key insight.
+The analysis covers window functions, CTEs, composite
+scoring, multi-scenario CASE logic, and cross-table joins.
+
+**For researchers and policymakers**
+
+Start with this README for a complete methodology overview.
+The 8 PDF reports contain the full analysis for each phase.
+The docs/data_dictionary.md file defines every column in
+every dataset.
+
+**To reproduce the SQL analysis**
+
+Import any CSV file from the data/ folder into your SQL
+database (PostgreSQL or SQL Server). The relevant queries
+for each dataset are in the corresponding PDF report.
+
+---
+
+## License
+
+MIT License
+
+This project is open source and free to use, share, and
+build upon with attribution to the author.
+
+---
+
+## Author
+
+**Md. Rafijur Rahman**
+Data Analyst | SQL | Power BI
+LinkedIn: [linkedin.com/in/mdrafijur](https://www.linkedin.com/in/mdrafijur)
+GitHub: [github.com/rafijurrahman](https://github.com/rafijurrahman)
+Location: Patuakhali, Bangladesh
+
+---
+
+<div align="center">
+
+*Data does not just describe problems.*
+*Data can design solutions.*
+
+</div>
