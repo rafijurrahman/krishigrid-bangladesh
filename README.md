@@ -31,6 +31,28 @@ them. That system is KrishiGrid.
 
 ---
 
+---
+
+## 📊 Executive Power BI Dashboard Walkthrough
+
+### 1. National Overview: Food Import Dependency & Land Potential
+![KrishiGrid National Overview](assets/National%20Food%20Import%20%26%20Land%20Potential.png)
+*Key Insight: Bangladesh spends $7.97B annually on food imports (with Edible Oil accounting for $3.44B), while over 820,000 hectares of rice fallow land sit completely idle.*
+
+---
+
+### 2. Regional Crop Matrix & Production Deficit Analysis
+![KrishiGrid Crop Matrix](assets/Regional%20Crop%20Matrix%20%26%20Deficit.png)
+*Key Insight: Interactive matrix across 64 districts identifying 2.53M MT untapped potato potential and 1.21M MT mustard/oilseed potential to replace foreign edible oil.*
+
+---
+
+### 3. Decentralized Hub Infrastructure & Action Plan
+![KrishiGrid Infrastructure Plan](assets/Infrastructure%20%26%20Action%20Plan.png)
+*Key Insight: Priority implementation roadmap identifying Patuakhali as Rank 1 for immediate edible oilseed hub implementation (7.1-year payback period, 1,782 direct jobs).*
+
+---
+
 ## Detailed Overview
 
 Bangladesh is caught in a structural trap that most people
